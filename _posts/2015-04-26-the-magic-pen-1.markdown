@@ -3,7 +3,7 @@ layout: post
 title:  "魔法笔 1"
 date:   2015-04-26 17:34:22
 categories: adult
-tags: 虎鲸 人形 肌肉
+tags: 虎鲸 半人 肌肉
 author: Wyraachur
 origin: http://www.furaffinity.net/view/15844526/
 ---
