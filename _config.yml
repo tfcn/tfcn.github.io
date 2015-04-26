@@ -8,3 +8,4 @@ url: "http://txt.tfcn.ml"
 
 # Build settings
 markdown: kramdown
+permalink: /story/:categories/:year/:title.html
