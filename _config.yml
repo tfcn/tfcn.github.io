@@ -1,0 +1,10 @@
+# Site settings
+title: TFCN
+email: us@tfcn.ml
+description: >
+  Chinese translation of awesome transformation stories.
+baseurl: ""
+url: "http://txt.tfcn.ml"
+
+# Build settings
+markdown: kramdown
